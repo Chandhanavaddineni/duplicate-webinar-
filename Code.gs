@@ -3,7 +3,7 @@
  *
  * What it does:
  *   1. Receives form data (parent + student details) from index.html
- *   2. Appends a row to the "Registrations" sheet
+ *   2. Appends a row to the "Registration-talent sprint leads" sheet
  *   3. Reads the Google Meet link from the "Config" sheet (cell B1)
  *      and returns it so the form can redirect the user.
  *
