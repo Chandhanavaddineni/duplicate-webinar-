@@ -14,7 +14,7 @@
  */
 
 // Name of the tab where registrations are stored
-var REG_SHEET   = "Registrations";
+var REG_SHEET   = "Registration-talent sprint leads";
 // Name of the tab that holds the editable Meet link
 var CONFIG_SHEET = "Config";
 // Cell in the Config tab that holds the Meet link
